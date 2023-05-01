@@ -1,0 +1,209 @@
+{
+    "variants": {
+        "facing=east,half=bottom,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=east,half=bottom,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner"
+        },
+        "facing=east,half=bottom,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=east,half=bottom,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer"
+        },
+        "facing=east,half=bottom,shape=straight": {
+            "model": "#{modId}:block/#{id}"
+        },
+        "facing=east,half=top,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "uvlock": true
+        },
+        "facing=east,half=top,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=east,half=top,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "uvlock": true
+        },
+        "facing=east,half=top,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=east,half=top,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "x": 180,
+            "uvlock": true
+        },
+        "facing=north,half=bottom,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=north,half=bottom,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north,half=bottom,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=north,half=bottom,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north,half=bottom,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north,half=top,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north,half=top,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "uvlock": true
+        },
+        "facing=north,half=top,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north,half=top,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "uvlock": true
+        },
+        "facing=north,half=top,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "x": 180,
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=south,half=bottom,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner"
+        },
+        "facing=south,half=bottom,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south,half=bottom,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer"
+        },
+        "facing=south,half=bottom,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south,half=bottom,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south,half=top,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south,half=top,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=south,half=top,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south,half=top,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=south,half=top,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "x": 180,
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=west,half=bottom,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=west,half=bottom,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west,half=bottom,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=west,half=bottom,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west,half=bottom,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west,half=top,shape=inner_left": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west,half=top,shape=inner_right": {
+            "model": "#{modId}:block/#{id}_inner",
+            "x": 180,
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=west,half=top,shape=outer_left": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west,half=top,shape=outer_right": {
+            "model": "#{modId}:block/#{id}_outer",
+            "x": 180,
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=west,half=top,shape=straight": {
+            "model": "#{modId}:block/#{id}",
+            "x": 180,
+            "y": 180,
+            "uvlock": true
+        }
+    }
+}

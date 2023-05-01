@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "up": "#{modId}:#{blockOrBlocks}/#{id}_up",
+        "down": "#{modId}:#{blockOrBlocks}/#{id}_down",
+        "north": "#{modId}:#{blockOrBlocks}/#{id}_north",
+        "south": "#{modId}:#{blockOrBlocks}/#{id}_south",
+        "west": "#{modId}:#{blockOrBlocks}/#{id}_west",
+        "east": "#{modId}:#{blockOrBlocks}/#{id}_east"
+    }
+}

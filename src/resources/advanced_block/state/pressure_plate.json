@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "powered=false": {
+            "model": "#{modId}:block/#{id}_up"
+        },
+        "powered=true": {
+            "model": "#{modId}:block/#{id}_down"
+        }
+    }
+}

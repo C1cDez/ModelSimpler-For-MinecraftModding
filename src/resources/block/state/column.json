@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=x": {
+            "model": "#{modId}:block/#{id}_horizontal",
+            "x": 90,
+            "y": 90
+        },
+        "axis=y": {
+            "model": "#{modId}:block/#{id}"
+        },
+        "axis=z": {
+            "model": "#{modId}:block/#{id}_horizontal",
+            "x": 90
+        }
+    }
+}

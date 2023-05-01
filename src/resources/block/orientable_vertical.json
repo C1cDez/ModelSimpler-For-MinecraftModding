@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/orientable_vertical",
+    "textures": {
+        "front": "#{modId}:#{blockOrBlocks}/#{id}_front_vertical",
+        "side": "#{modId}:#{blockOrBlocks}/#{id}_side"
+    }
+}

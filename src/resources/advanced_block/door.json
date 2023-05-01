@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door#{variant}",
+    "textures": {
+        "top": "#{modId}:#{blockOrBlocks}/#{id}_top",
+        "bottom": "#{modId}:#{blockOrBlocks}/#{id}_bottom"
+    }
+}

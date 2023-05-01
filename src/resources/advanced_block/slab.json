@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab#{variant}",
+    "textures": {
+        "bottom": "#{modId}:#{blockOrBlocks}/#{id}",
+        "top": "#{modId}:#{blockOrBlocks}/#{id}",
+        "side": "#{modId}:#{blockOrBlocks}/#{id}"
+    }
+}

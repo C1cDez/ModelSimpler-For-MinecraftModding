@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button#{variant}",
+    "textures": {
+        "texture": "#{modId}:#{blockOrBlocks}/#{id}"
+    }
+}

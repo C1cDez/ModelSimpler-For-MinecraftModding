@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "facing=down": {
+            "model": "#{modId}:block/#{id}_vertical",
+            "x": 180
+        },
+        "facing=east": {
+            "model": "#{modId}:block/#{id}",
+            "y": 90
+        },
+        "facing=north": {
+            "model": "#{modId}:block/#{id}"
+        },
+        "facing=south": {
+            "model": "#{modId}:block/#{id}",
+            "y": 180
+        },
+        "facing=up": {
+            "model": "#{modId}:block/#{id}_vertical"
+        },
+        "facing=west": {
+            "model": "#{modId}:block/#{id}",
+            "y": 270
+        }
+    }
+}

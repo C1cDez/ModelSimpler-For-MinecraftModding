@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_top",
+    "textures": {
+        "top": "#{modId}:#{blockOrBlocks}/#{id}_top",
+        "side": "#{modId}:#{blockOrBlocks}/#{id}"
+    }
+}

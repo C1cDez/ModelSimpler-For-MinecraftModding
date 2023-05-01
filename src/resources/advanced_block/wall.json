@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/wall#{variant}",
+    "textures": {
+        "wall": "#{modId}:#{blockOrBlocks}/#{id}"
+    }
+}

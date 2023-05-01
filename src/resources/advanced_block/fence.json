@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/fence#{variant}",
+    "textures": {
+        "texture": "#{modId}:#{blockOrBlocks}/#{id}"
+    }
+}

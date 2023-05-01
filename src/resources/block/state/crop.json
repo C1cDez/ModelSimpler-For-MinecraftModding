@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "age=#{stage}": {
+            "model": "#{modId}:block/#{id}#{stage}"
+        }
+    }
+}

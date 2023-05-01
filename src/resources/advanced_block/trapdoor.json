@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template_orientable_trapdoor#{variant}",
+    "textures": {
+        "texture": "#{modId}:#{blockOrBlocks}/#{id}"
+    }
+}
